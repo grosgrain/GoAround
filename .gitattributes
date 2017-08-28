@@ -1,3 +1,3 @@
 $ cat .gitattributes
-*.rb linguist-language=Go
 *.rb linguist-language=Objective-C
+*.rb linguist-language=Go
